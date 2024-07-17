@@ -11494,7 +11494,7 @@ textarea.form-control-lg {
     gap: 3rem !important;
   }
   .text-xxl-start {
-    text-align: left !important;
+    text-align: center !important;
   }
   .text-xxl-end {
     text-align: right !important;
